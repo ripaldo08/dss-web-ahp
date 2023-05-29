@@ -7,3 +7,13 @@ Website ini memiliki fitur visualisasi yang memudahkan pengguna dalam memahami h
 
 Website sistem pendukung keputusan menggunakan AHP ini sangat berguna bagi mereka yang sering mengambil keputusan dengan mempertimbangkan banyak kriteria dan alternatif, seperti manajer, pengusaha, atau pengambil keputusan di lembaga publik maupun swasta. Dengan menggunakan website ini, pengguna dapat mengambil keputusan secara lebih efektif dan efisien, serta mendapatkan hasil analisis yang lebih akurat dan objektif.
 
+# Tampilan:
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/6e00f9cb-9ac4-4352-b0ea-9643828828f3)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/890cc916-99c1-4ab9-8ebc-35dae622c852)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/73c94fc7-edac-497a-a599-34b7afdbb7d4)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/c3097dfe-b213-4cce-b358-44a9a6c4c664)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/5f4eea97-ddfa-411c-9d63-40eb82179ef9)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/ddb812a3-463f-44ba-872c-b4f6f08f8eef)
+![image](https://github.com/ripaldo08/dss-web-ahp/assets/126519709/eccfa12f-8b08-4149-bb86-1a9ef1603bdc)
+
+
